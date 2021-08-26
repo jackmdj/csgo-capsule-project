@@ -1,6 +1,6 @@
 <h1 align = 'center'>CSGO Sticker Capsule Data Analysis</h1>
 
-Would you invest in an asset that doubles after 150 days, triples after 350, and sees 800% growth after 800 days? Keep reading to find out more!
+  Over the past year I've delved into the world of investment, learning as much as I can, and making plenty of speculative mistakes in the process. As an avid CSGO player and fan, I'd noticed a consistently positive trend regarding the price of CSGO sticker capsules. It's a fairly well known fact in the CSGO community that these capsules gain value over time, but I wanted to know how quickly and reliably I could expect growth before investing my hard earned money. I decided to combine my interests, and gain valuable experience in data exploration and analysis with this project.
 
 <h2>About CSGO, Sticker Capsules, and the Steam Market</h2>
 
